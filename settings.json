@@ -9,7 +9,8 @@
     "ip": "svmobs.aternos.me",
     "port": 56990,
     "version": "",
-    "try-creative": false
+    "try-creative": true
+    
   },
   "position": {
     "enabled": true,
